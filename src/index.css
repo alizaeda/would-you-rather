@@ -1,0 +1,21 @@
+.item-nav {
+  padding: 10px 20px !important;
+  font-size: 16px;
+  transition: 0.5s;
+  border-radius: 10px;
+  margin: 0 5px;
+}
+
+.item-nav:hover {
+  background-color: #ffc107;
+  text-color: #FFF !important;
+}
+
+.avatar-icon {
+  width: 35px;
+}
+
+.card-container {
+  width: 350px;
+  max-width: 350px;
+}
