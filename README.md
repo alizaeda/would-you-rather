@@ -1,6 +1,6 @@
 ## Project preview
 
-You Can Preview The Application at [MyReads | Book Tracking](https://wouldyourather.alieslam.tech/)
+You Can Preview The Application at [Would You Rather ?](https://wouldyourather.alieslam.tech/)
 
 <br/>
 
