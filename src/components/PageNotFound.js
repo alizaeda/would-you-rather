@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const PageNotFound = () => {
   return (
     <Fragment>
-      <div>
+      <div className="mt-3">
         <h1 className="h1 text-center">Page Not Found</h1>
         <h2 className=" text-center">
           <Link to="/">Click Here To Return Home</Link>
@@ -12,6 +12,6 @@ const PageNotFound = () => {
       </div>
     </Fragment>
   );
-}
+};
 
 export default PageNotFound;
